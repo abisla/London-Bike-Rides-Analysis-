@@ -19,13 +19,13 @@ Total rides over time Moving vverage rides Temperature and wind speed Peak ride 
 To access the Tableau visualization, click (https://public.tableau.com/app/profile/amar.b1158/viz/LondonBikeRides_17305660711490/Dashboard1)
 
 ## Files Included
-london_bikeshare.csv: Raw data file containing London bike ride information.
+london_merged: Raw data file containing London bike ride information.
 
 london_bikeshare_analysis.twbx: Tableau workbook file containing the visualization and data connections.
 
 README.md: This README file providing project information and instructions.
 
-london_bikesare_final.xlsx: Data was cleaned and preprocessed in python. This was the final excel file after data pre-processing.
+london_bikes_final.xlsx: Data was cleaned and preprocessed in python. This was the final excel file after data pre-processing.
 
 ## Usage
 Feel free to explore the Tableau visualization to gain insights into the London bike ride data. Interact with the visualizations, filters, and dashboards to understand patterns and trends.
