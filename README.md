@@ -2,7 +2,8 @@
 ## Project Overview
 Welcome to the London Bike Rides Analysis project repository! This project is based on the analysis of bike ride data in London, which I conducted by following a YouTube tutorial by Mo Chen. In this guided project, I performed an analysis of bike ride data in London using Tableau. This README provides an overview of the project, its purpose, data sources, and how to access and use the Tableau visualization.
 
-![image](https://github.com/user-attachments/assets/5df20e4d-5ebf-4964-b8d9-af78f797b384)
+![image](https://github.com/user-attachments/assets/08b30f26-b6fc-49e5-8951-479321d77d29)
+
 
 
 ## Purpose
